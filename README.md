@@ -1,5 +1,4 @@
-                                                                              👋 Hi, I’m Liza :)
-
+- 👋 Hi, I’m Liza :)
 - 👀 I’m interested in front-end and back-end development
 - 🌱 I’m currently learning python and JS
 - 💞️ I’m looking to collaborate on any web development project, would be happy with internship opportunities!
